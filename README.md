@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on: **NoteFlix**<br>- 🌱 Learning more about: **Cloud, AI, and scalable backend systems**  <br>- 💡 Interests: Full-stack development, AI applications<br>- 🤝 Looking to collaborate on: Open-source and MERN projects</p>
+<p align="left">- 🔭 I’m currently working on: NoteFlix<br>- 🌱 Learning more about: Cloud, AI, and scalable backend systems  <br>- 💡 Interests: Full-stack development, AI applications<br>- 🤝 Looking to collaborate on: Open-source and MERN projects</p>
 
 ###
 
