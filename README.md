@@ -1,66 +1,95 @@
-<h2 align="center">Hey there! I'm Huzaifa👋</h2>
+<div align="center">
 
-###
+# Hi, I'm Huzaifa👋
 
-<div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=huzaifatg.huzaifatg&left_text=Footprints%20%F0%9F%91%80"  />
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Full+Stack+Developer;AI+Enthusiast;Cloud+Explorer)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=huzaifatg.huzaifatg&left_text=Visitors&color=7c3aed)
+
 </div>
 
-###
+---
 
-<p align="left">- 🔭 I’m currently working on: NoteFlix<br>- 🌱 Learning more about: Cloud, AI, and scalable backend systems  <br>- 💡 Interests: Full-stack development, AI applications<br>- 🤝 Looking to collaborate on: Open-source and MERN projects</p>
+## 🚀 About Me
 
-###
+<table>
+<tr>
+<td width="50%">
 
-<br clear="both">
+**🔭 Currently Working On**
+> NoteFlix - A comprehensive note-taking application built with modern web technologies
+
+**🌱 Learning**
+> Cloud Architecture, AI/ML Applications, and Microservices to build scalable systems
+
+</td>
+<td width="50%">
+
+**💡 Interests**
+> Full-stack development, AI applications, and contributing to open source projects
+
+**🤝 Collaboration**
+> Always open to collaborating on MERN stack projects and innovative tech solutions
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=huzaifatg&theme=monokai&no-bg=true&no-frame=true&margin-w=15" height="150" alt="trophy graph"  />
+
+### 🎨 Frontend
+[![Skills](https://skillicons.dev/icons?i=react,js,html,css,tailwind&theme=dark)](https://skillicons.dev)
+
+### ⚙️ Backend
+[![Skills](https://skillicons.dev/icons?i=nodejs,mongodb,mysql,redis,py&theme=dark)](https://skillicons.dev)
+
+### 🛠️ Tools
+[![Skills](https://skillicons.dev/icons?i=docker,git,github&theme=dark)](https://skillicons.dev)
+
 </div>
 
-###
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="50" alt="mongodb logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
-  <img width="15" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="nodejs logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo"  />
-  <img width="15" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" height="50" alt="docker logo"  />
-  <img width="15" />
-  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo"  />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=huzaifatg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&icon_color=06b6d4&text_color=e6e6e6" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=huzaifatg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c3aed&text_color=e6e6e6" />
+
 </div>
 
-###
+---
+
+## 🏆 GitHub Trophies
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/huzaifatg/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:huzaifatg2000@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  </a>
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=huzaifatg&theme=tokyonight&no-frame=true&margin-w=15&no-bg=true&column=6" />
+
 </div>
 
-###
+---
+
+## 🤝 Let's Connect
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=huzaifatg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=chartreuse-dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<a href="https://www.linkedin.com/in/huzaifatg/">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:huzaifatg2000@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
 </div>
 
-###
+######
+
+<div align="center">
+  <i>📌 Works on my machine... hopefully on yours too</i>
+</div>
