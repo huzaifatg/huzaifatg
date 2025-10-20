@@ -17,7 +17,7 @@
 <td width="50%">
 
 **🔭 Currently Working On**
-> NoteFlix - A comprehensive note-taking application built with modern web technologies
+> Invoicely — A smart invoice management web application designed to streamline billing, client tracking, and payment management with a modern full-stack architecture.
 
 **🌱 Learning**
 > Cloud Architecture, AI/ML Applications, and Microservices to build scalable systems
